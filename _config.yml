@@ -1,4 +1,3 @@
-layout_spectrum: 0.9509487042669207
 typography_spectrum: 0.4423343329690397
 color:
   brandStrength: 0.8251608710270375
@@ -11,5 +10,7 @@ color:
     - '#F45379'
     - '#676452'
     - '#F9A237'
+layout_spectrum: 0.9509487042669207
 name: 'Bruno Pauli '
 title: BP//COD
+description: clothing
