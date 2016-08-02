@@ -1,14 +1,14 @@
-layout_spectrum: 0.013796026585623622
-typography_spectrum: 0.8521829671226442
+layout_spectrum: 0.9509487042669207
+typography_spectrum: 0.4423343329690397
 color:
-  brandStrength: 0.6802987661212683
-  lightness: 0.004702259786427021
-  saturation: 0.9228950506076217
-  rhythmicContrast: 0.5651870453730226
+  brandStrength: 0.8251608710270375
+  lightness: 0.5868569526355714
+  saturation: 0.1870974360499531
+  rhythmicContrast: 0.3583229423966259
   brandColors:
-    - '#6B0C22'
-    - '#D9042B'
-    - '#F4CB89'
-    - '#588C8C'
-    - '#011C26'
+    - '#16110D'
+    - '#FBFBF9'
+    - '#F45379'
+    - '#676452'
+    - '#F9A237'
 name: 'Bruno Pauli '
