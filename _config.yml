@@ -1,16 +1,16 @@
-typography_spectrum: 0.8621092508547008
+typography_spectrum: 0.4423343329690397
 color:
-  brandStrength: 0.4906131327152252
-  lightness: 0.6126356679014862
-  saturation: 0.7659287666901946
-  rhythmicContrast: 0.6144934617914259
+  brandStrength: 0.8251608710270375
+  lightness: 0.5868569526355714
+  saturation: 0.1870974360499531
+  rhythmicContrast: 0.3583229423966259
   brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#490B86'
-    - '#F9A238'
-    - '#F4547A'
-layout_spectrum: 0.06634708400815725
+    - '#16110D'
+    - '#FBFBF9'
+    - '#F45379'
+    - '#676452'
+    - '#F9A237'
+layout_spectrum: 0.9509487042669207
 name: 'Bruno Pauli '
 title: BP//COD
-description: clothing
+description: urban couture
